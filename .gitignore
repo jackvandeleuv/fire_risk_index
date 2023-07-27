@@ -1,3 +1,5 @@
 /data/
 all_fires_processed.csv
 fires_in_ph.csv
+fires_in_ph_clean_4states.csv
+fires_in_ph_clean.csv
