@@ -1,3 +1,7 @@
+## Presentation
+
+This project was presented to staff at HUD in August 2023. Download or view that presentation [here.](https://github.com/jackvandeleuv/fire_risk_index/blob/main/8-16-23%20Presentation%20(v1.0).pdf)
+
 ## Set up guide
 
 To replicate this project, download all Fire Hazmat datasets from years 2012-2021 inclusive from the [FEMA website](https://www.fema.gov/about/openfema/data-sets/fema-usfa-nfirs-annual-data), and place each one in the data folder in the project root. Make sure to extract all zipped folders, including zipped subfolders inside the original zipped folder. 
