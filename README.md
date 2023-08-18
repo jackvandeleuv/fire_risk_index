@@ -1,3 +1,7 @@
+## Presentation
+
+This project was presented to staff at the U.S. Department of Housing and Urban Development on August 2023. Download or view that presentation [here.](https://github.com/jackvandeleuv/fire_risk_index/blob/main/8-16-23%20Presentation%20(v1.0).pdf)
+
 ## Set up guide
 
 To replicate this project, perform the following steps.
