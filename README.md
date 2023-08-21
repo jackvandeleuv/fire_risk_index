@@ -27,4 +27,4 @@ Once you have extracted the zipped FEMA datasets and downloaded the three files 
 3) clean_public.ipynb
 4) match_clean_fire_data.ipynb
 
-After running all four notebooks in order, you can run any of the other notebooks.
+After running all four notebooks in order, you can run the other notebooks from the analytics or modeling directories in any order.
