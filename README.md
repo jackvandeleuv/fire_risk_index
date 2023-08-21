@@ -8,7 +8,7 @@ To replicate this project, perform the following steps.
 
 #### Download data files
 
-Download all Fire Hazmat datasets from years 2012-2021 inclusive from the [FEMA website](https://www.fema.gov/about/openfema/data-sets/fema-usfa-nfirs-annual-data), and place each one in the data folder in the project root. Make sure to extract all zipped folders, including zipped subfolders inside the original zipped folder. 
+Download all Fire Hazmat datasets from years 2012-2021 inclusive from the [FEMA website](https://www.fema.gov/about/openfema/data-sets/fema-usfa-nfirs-annual-data), and place each one in a folder called "data" in the project root. Make sure to extract all zipped folders, including zipped subfolders inside the original zipped folder. 
 
 (Note: The NFIRS dataset will take up around 30 gigabytes, once processed by the load_nfirs notebook.)
 
