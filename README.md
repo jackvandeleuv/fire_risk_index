@@ -20,7 +20,7 @@ Also place the following three csv files from the HUD GIS Helpdesk in the data f
 
 #### Run data processing/cleaning notebooks
 
-Once you have extracted the zipped FEMA datasets, run these four notebooks (in the clean_load_data directory) in the following order:
+Once you have extracted the zipped FEMA datasets and downloaded the three files from the HUD GIS Helpdesk (and placed all of them in a /data/ folder) run these four notebooks (in the clean_load_data directory) in the following order:
 
 1) load_nfirs.ipynb
 2) link_public_dev_pha.ipynb
