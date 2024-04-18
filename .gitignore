@@ -2,3 +2,4 @@ data
 archive
 .venv
 load_clean_data/full_fema_matches.csv
+additional
